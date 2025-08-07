@@ -29,6 +29,7 @@ HTTP filter showing HTTP GET/response packets:<br/>
 </b2>
 
 
-<b>Outcome:<br/>
-
+<b>Outcome:<b>
+<br />
 <b2>This lab reinforced my ability to effectively use Wireshark for network troubleshooting, security monitoring, and understanding protocol-level communications, confirming proficiency in network analysis fundamentals.</b2>
+</br>

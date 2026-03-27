@@ -14,9 +14,9 @@ This project demonstrates practical experience with Wireshark, a leading network
 - <b2> Packet Inspection: Analyzed individual packets in the Packet-Listing window, identifying key HTTP request/response methods (e.g., GET), source/destination IP                 addresses, and TCP segment details. This provided insight into the layers of the TCP/IP model during a web transaction.
  </b2>
 <p align="center">
-HTTP filter showing HTTP GET/response packets:<br/>
-<img src="https:" height="80%" width="80%" alt="HTTP filter showing HTTP GET/response packets:"/>
-<br />
+<img width="960" height="474" alt="HTTP GET" src="https://github.com/user-attachments/assets/45af795a-a009-47b7-a8eb-d49dbaccea7f" />
+ <br>
+ HTTP filter showing HTTP GET/response packets
 </p> 
 <br />
 
